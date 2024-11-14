@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "Snoozeloo"
 include(":app")
- 
+include(":snoozeloo:data")
+include(":alarm:data")
+include(":alarm:presentation")
+include(":alarm:domain")

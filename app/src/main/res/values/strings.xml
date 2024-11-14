@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Snoozeloo</string>
+    <string name="wake_up">Wake Up</string>
+    <string name="my_alarms">My Alarms</string>
+    <string name="no_alarms">It\'s empty! Add the first alarm so you\ndon\'t miss an important moment!</string>
+    <string name="alarm_name">Alarm Name</string>
+    <string name="repeat">Repeat</string>
+    <string name="alarm_volume">Alarm volume</string>
+    <string name="vibrate">Vibrate</string>
+    <string name="alarm_ringtone">Alarm ringtone</string>
 </resources>

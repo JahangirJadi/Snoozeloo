@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Snoozeloo" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="postSplashScreenTheme">@style/Theme.Snoozeloo</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/animated_logo</item>
+
+    </style>
+</resources>
